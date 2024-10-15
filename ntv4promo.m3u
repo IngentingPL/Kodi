@@ -1,0 +1,269 @@
+#EXTM3U
+#EXTINF:0 tvg-id="TVP 1" tvg-logo="https://s8.tvp.pl/images2/8/a/c/uid_8ac2b72c379abf831e4d27a56988eae11638275540325_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Ogolne",TVP 1
+plugin://plugin.video.tvpgo/play_channel?code=T1D&ch_id=5d1dccc1fa06f9682b0f9922
+#EXTINF:0 tvg-id="TVP 2" tvg-logo="https://s3.tvp.pl/images2/3/8/3/uid_38313bd81e2ec78f92fa8d360e738b921638275558292_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Ogolne",TVP 2
+plugin://plugin.video.tvpgo/play_channel?code=T2D&ch_id=5d1dccc1fa06f9682b0f9923
+#EXTINF:-1,Polsat HD group-title="Ogolne",Polsat
+plugin://plugin.video.pilot.wp?action=PLAY&channel=9
+#EXTINF:-1,TVN group-title="Ogolne",TVN
+plugin://plugin.video.pilot.wp?action=PLAY&channel=14
+#EXTINF:-1,TV 4 group-title="Ogolne",TV 4
+plugin://plugin.video.pilot.wp?action=PLAY&channel=11
+#EXTINF:-1,TV Puls group-title="Ogolne",TV Puls
+plugin://plugin.video.pilot.wp?action=PLAY&channel=12
+#EXTINF:-1,WP PL PL group-title="Ogolne",WP
+plugin://plugin.video.netiago/?mode=playtvs&url=1454634&page=0&moviescount=0&movie=True&name=WP PL&image=https://ipla.pluscdn.pl/p/cms_thumbnails/9a/9a9ejbjsu5ukdykj4e67ukds3zhc9848.jpeg
+#EXTINF:-1,ZOOM TV PL group-title="Ogolne",ZOOM TV
+plugin://plugin.video.netiago/?mode=playtvs&url=1455166&page=0&moviescount=0&movie=True&name=ZOOM TV&image=https://ipla.pluscdn.pl/p/cms_thumbnails/t2/t2bsnp3kd3vgjr1b262su22i4jbekfvk.jpeg
+#EXTINF:-1,POLSAT 2 HD PL, group-title="Ogolne",Polsat 2
+plugin://plugin.video.netiago/?mode=playtvs&url=1455827&page=0&moviescount=0&movie=True&name=POLSAT 2 HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/qj/qj85p8627qjzndfqhpj7s7frta638533.jpeg
+#EXTINF:0 tvg-id="TVP Polonia" tvg-logo="https://s5.tvp.pl/images2/e/7/b/uid_e7b9ee2c3a342e7b97eda1b96e48808d1638275742066_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Ogolne",TVP Polonia
+plugin://plugin.video.tvpgo/play_channel?code=T4D&ch_id=5d1dccc1fa06f9682b0f9937
+#EXTINF:0 tvg-id="TVP Sport" tvg-logo="https://s9.tvp.pl/images2/9/6/b/uid_96b6b3e217181c3d3925ba783fe68a131638275633849_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Sport",TVP Sport
+plugin://plugin.video.tvpgo/play_channel?code=KSP&ch_id=5d1dccc1fa06f9682b0f993a
+#EXTINF:-1,POLSAT SPORT 1 PL group-title="Sport",Polsat Sport 1
+plugin://plugin.video.netiago/?mode=playtvs&url=1456452&page=0&moviescount=0&movie=True&name=POLSAT SPORT 1&image=https://ipla.pluscdn.pl/p/cms_thumbnails/q9/q969qe3e7fqapvm2o6cxt13kjyj2b25k.jpg
+#EXTINF:-1,POLSAT SPORT 2 PL group-title="Sport",Polsat Sport 2
+plugin://plugin.video.netiago/?mode=playtvs&url=1455745&page=0&moviescount=0&movie=True&name=POLSAT SPORT 2&image=https://ipla.pluscdn.pl/p/cms_thumbnails/19/19y9o5h5pz7zcdqig53p5yjjbxbii673.jpg
+#EXTINF:-1,POLSAT SPORT 3 PL group-title="Sport",Polsat Sport 3
+plugin://plugin.video.netiago/?mode=playtvs&url=1455832&page=0&moviescount=0&movie=True&name=POLSAT SPORT 3&image=https://ipla.pluscdn.pl/p/cms_thumbnails/g1/g1t7z8deo532za2gye32n77w83m5yx58.jpg
+#EXTINF:-1,POLSAT SPORT FIGHT HD PL group-title="Sport",Polsat Sport Fight
+plugin://plugin.video.netiago/?mode=playtvs&url=1455746&page=0&moviescount=0&movie=True&name=POLSAT SPORT FIGHT HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/gz/gzn4onp9shmmqvkheguueqjxg197aspo.jpeg
+#EXTINF:-1,POLSAT SPORT PREMIUM 1 PL group-title="Sport",Polsat Sport Premium 1
+plugin://plugin.video.netiago/?mode=playtvs&url=1459449&page=0&moviescount=0&movie=True&name=POLSAT SPORT PREMIUM 1&image=https://ipla.pluscdn.pl/p/cms_thumbnails/18/18afacfhu73m6vmk7i6i5cmzdnze3ox3.png
+#EXTINF:-1,POLSAT SPORT PREMIUM 2 PL group-title="Sport",Polsat Sport Premium 2
+plugin://plugin.video.netiago/?mode=playtvs&url=1459450&page=0&moviescount=0&movie=True&name=POLSAT SPORT PREMIUM 2&image=https://ipla.pluscdn.pl/p/cms_thumbnails/9f/9fwktjqyffia7mcx3ds8hsdrv2tz1rbi.png
+#EXTINF:-1,ELEVEN SPORTS 1 PL group-title="Sport",ELEVEN SPORTS 1
+plugin://plugin.video.netiago/?mode=playtvs&url=1457744&page=0&moviescount=0&movie=True&name=ELEVEN SPORTS 1&image=https://ipla.pluscdn.pl/p/cms_thumbnails/id/id9oyhr3qbdmbu18r72343s771qm8xup.png
+#EXTINF:-1,ELEVEN SPORTS 2 PL group-title="Sport",ELEVEN SPORTS 2
+plugin://plugin.video.netiago/?mode=playtvs&url=1457734&page=0&moviescount=0&movie=True&name=ELEVEN SPORTS 2&image=https://ipla.pluscdn.pl/p/cms_thumbnails/cq/cqd2u7bb9tv88rnoxkg55t2fm5biwg1q.png
+#EXTINF:-1,ELEVEN SPORTS 3 PL group-title="Sport",ELEVEN SPORTS 3
+plugin://plugin.video.netiago/?mode=playtvs&url=1457736&page=0&moviescount=0&movie=True&name=ELEVEN SPORTS 3&image=https://ipla.pluscdn.pl/p/cms_thumbnails/kn/kn7x46hw8qurh432bydk3u3kzsiz4mno.png
+#EXTINF:-1,ELEVEN SPORTS 4 PL group-title="Sport",ELEVEN SPORTS 4
+plugin://plugin.video.netiago/?mode=playtvs&url=1457740&page=0&moviescount=0&movie=True&name=ELEVEN SPORTS 4&image=https://ipla.pluscdn.pl/p/cms_thumbnails/2r/2r9d66wncwp624di9zv9a2k8mmqg1hrd.png
+#EXTINF:-1,MOTOWIZJA PL group-title="Sport",MOTOWIZJA
+plugin://plugin.video.netiago/?mode=playtvs&url=1503925&page=0&moviescount=0&movie=True&name=MOTOWIZJA&image=https://ipla.pluscdn.pl/p/cms_thumbnails/ht/htuxmsh415ampczvsmsiaanz6ar2ejei.png
+#EXTINF:-1,EXTREME CHANNEL PL group-title="Sport",Extreme Channel
+plugin://plugin.video.netiago/?mode=playtvs&url=1457778&page=0&moviescount=0&movie=True&name=EXTREME CHANNEL&image=https://ipla.pluscdn.pl/p/cms_thumbnails/k5/k5od1vfivk6zc329sr1in8r335xqd9ug.jpeg
+#EXTINF:-1,HBO HD PL group-title="Film",HBO
+plugin://plugin.video.netiago/?mode=playtvs&url=1455492&page=0&moviescount=0&movie=True&name=HBO HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/s6/s6ao3ipioxibrrb47pmrt9e856qfmb31.png
+#EXTINF:-1,HBO 2 HD PL group-title="Film",HBO 2
+plugin://plugin.video.netiago/?mode=playtvs&url=1455433&page=0&moviescount=0&movie=True&name=HBO 2 HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/f6/f6kdmw5iqnrwzh8252riaov2c3enz3y9.png
+#EXTINF:-1,HBO 3 HD PL group-title="Film",HBO 3
+plugin://plugin.video.netiago/?mode=playtvs&url=1455151&page=0&moviescount=0&movie=True&name=HBO 3 HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/22/22fa1ptgspfbjrnn6hvg24sg9u4e4f68.png
+#EXTINF:-1,FILMBOX PREMIUM HD PL group-title="Film",Filmbox Premium
+plugin://plugin.video.netiago/?mode=playtvs&url=1455415&page=0&moviescount=0&movie=True&name=FILMBOX PREMIUM HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/d7/d7ba31om833pef9jqn8x7asnmitxbmy7.png
+#EXTINF:-1,FILMBOX FAMILY PL group-title="Film",Filmbox Family
+plugin://plugin.video.netiago/?mode=playtvs&url=1454621&page=0&moviescount=0&movie=True&name=FILMBOX FAMILY&image=https://ipla.pluscdn.pl/p/cms_thumbnails/gv/gvg2juxu1s7v8jjs9bzsjahjn8bp7fp6.png
+#EXTINF:-1,FILMBOX ARTHOUSE PL group-title="Film",Filmbox Arthouse
+plugin://plugin.video.netiago/?mode=playtvs&url=1454603&page=0&moviescount=0&movie=True&name=FILMBOX ARTHOUSE&image=https://ipla.pluscdn.pl/p/cms_thumbnails/fb/fbwqi3bzmritdcaaixpk3peb5din2rhb.png
+#EXTINF:-1,FILMBOX ACTION PL group-title="Film",Filmbox Action
+plugin://plugin.video.netiago/?mode=playtvs&url=1455885&page=0&moviescount=0&movie=True&name=FILMBOX ACTION&image=https://ipla.pluscdn.pl/p/cms_thumbnails/53/53e21hhqcmdn8i9ii3mnkf17f81jg74s.png
+#EXTINF:-1,FILMBOX EXTRA HD PL group-title="Film",Filmbox Extra
+plugin://plugin.video.netiago/?mode=playtvs&url=1454626&page=0&moviescount=0&movie=True&name=FILMBOX EXTRA HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/75/75kbvvmgh9v2jtv7k73o2y4z553i33t2.png
+#EXTINF:-1,SCIFI UNIVERSAL PL group-title="Film",SCI-FI
+plugin://plugin.video.netiago/?mode=playtvs&url=1455428&page=0&moviescount=0&movie=True&name=SCIFI UNIVERSAL&image=https://ipla.pluscdn.pl/p/cms_thumbnails/1z/1zc6wrijv9ftp27sjtf754od7dwobrbu.png
+#EXTINF:-1,AXN HD PL group-title="Film",AXN
+plugin://plugin.video.netiago/?mode=playtvs&url=1455756&page=0&moviescount=0&movie=True&name=AXN HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/tw/twboo2emb5noxcq2kwi6ok5sd7xbh2rp.png
+#EXTINF:-1,AXN BLACK SD PL group-title="Film",AXN BLACK
+plugin://plugin.video.netiago/?mode=playtvs&url=1455430&page=0&moviescount=0&movie=True&name=AXN BLACK SD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/fc/fc71kk7r3y5uac4jqbc2hvo8azfm8pwr.png
+#EXTINF:-1,AXN WHITE SD PL group-title="Film",AXN WHITE
+plugin://plugin.video.netiago/?mode=playtvs&url=1454629&page=0&moviescount=0&movie=True&name=AXN WHITE SD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/kk/kkpembuj5u11qg2bvy5ui3yg7wues46n.png
+#EXTINF:-1,AXN SPIN HD PL group-title="Film",AXN SPIN
+plugin://plugin.video.netiago/?mode=playtvs&url=1454628&page=0&moviescount=0&movie=True&name=AXN SPIN HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/be/bewx1mnjq1e1945pfiqw8iw72zwdn9a3.png
+#EXTINF:0 tvg-id="TVP Kultura" tvg-logo="https://s9.tvp.pl/images2/9/6/1/uid_96117b8fceb8a7db897a9757240316451638275727542_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Film",TVP Kultura
+plugin://plugin.video.tvpgo/play_channel?code=T5D&ch_id=5d1dccc1fa06f9682b0f9936
+#EXTINF:0 tvg-id="Kultura 2" tvg-logo="https://s9.tvp.pl/images2/9/5/d/uid_95d9115d0087e74f98e473318137f5611638276367938_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Film",Kultura 2
+plugin://plugin.video.tvpgo/play_channel?code=KUL2&ch_id=6023b5b969359a199a4e25cc
+#EXTINF:-1,CINEMAX HD PL group-title="Film",Cinemax
+plugin://plugin.video.netiago/?mode=playtvs&url=1455335&page=0&moviescount=0&movie=True&name=CINEMAX HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/mp/mpd1h13masq49h8n2co1wq8x2ezeozg4.jpeg
+#EXTINF:-1,CINEMAX 2 HD PL group-title="Film",Cinemax 2
+plugin://plugin.video.netiago/?mode=playtvs&url=1455167&page=0&moviescount=0&movie=True&name=CINEMAX 2 HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/z4/z4sur8hiq3bf7u7dtes4jrwn2eznwo2p.jpeg
+#EXTINF:-1,PARAMOUNT NETWORK HD PL group-title="Film",Paramount Network
+plugin://plugin.video.netiago/?mode=playtvs&url=1455826&page=0&moviescount=0&movie=True&name=PARAMOUNT NETWORK HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/g1/g19vk95k7dkoixpkzhxw4iqv8vv1z3t5.jpeg
+#EXTINF:-1,WARNER TV PL group-title="Film",Warner TV
+plugin://plugin.video.netiago/?mode=playtvs&url=1455762&page=0&moviescount=0&movie=True&name=WARNER TV&image=https://ipla.pluscdn.pl/p/cms_thumbnails/w7/w7bdome2ni6yu6m1fuv3bmqsj8xr92xp.jpeg
+#EXTINF:-1,AMC PL group-title="Film",AMC
+plugin://plugin.video.netiago/?mode=playtvs&url=1455446&page=0&moviescount=0&movie=True&name=AMC&image=https://ipla.pluscdn.pl/p/cms_thumbnails/th/th4va141ys2cu7p2a6sf41n1h7aeuzwt.jpeg
+#EXTINF:-1,CBS EUROPA HD PL group-title="Film",CBS Europa
+plugin://plugin.video.netiago/?mode=playtvs&url=1454416&page=0&moviescount=0&movie=True&name=CBS EUROPA HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/ug/ugqeu1efpszcmoud4ajrushn47azhzdo.jpeg
+#EXTINF:-1,BBC FIRST PL group-title="Film",BBC First
+plugin://plugin.video.netiago/?mode=playtvs&url=1456329&page=0&moviescount=0&movie=True&name=BBC FIRST&image=https://ipla.pluscdn.pl/p/cms_thumbnails/yj/yj12uxevwmwn1ytymdkz82hq1vgijqoj.jpeg
+#EXTINF:-1,FX PL group-title="Film",FX
+plugin://plugin.video.netiago/?mode=playtvs&url=1455822&page=0&moviescount=0&movie=True&name=FX&image=https://ipla.pluscdn.pl/p/cms_thumbnails/a3/a3o8eeubk32fhcirbatviazphuu1jo6y.jpg
+#EXTINF:-1,13 ULICA PL group-title="Film",13 Ulica
+plugin://plugin.video.netiago/?mode=playtvs&url=1455431&page=0&moviescount=0&movie=True&name=13 ULICA&image=https://ipla.pluscdn.pl/p/cms_thumbnails/1s/1s83d3gkt5w8aqz4zr6d7trgu3wworys.jpeg
+#EXTINF:-1,Red Carpet TV HD group-title="Film",Red Carpet
+plugin://plugin.video.pilot.wp?action=PLAY&channel=138
+#EXTINF:-1,Red Top TV group-title="Film",Red Top
+plugin://plugin.video.pilot.wp?action=PLAY&channel=273
+#EXTINF:-1,Polonia 1 group-title="Film",Polonia 1
+plugin://plugin.video.pilot.wp?action=PLAY&channel=211
+#EXTINF:-1,Tele 5 HD group-title="Film",Tele 5
+plugin://plugin.video.pilot.wp?action=PLAY&channel=212
+#EXTINF:-1,POLSAT COMEDY CENTRAL EXTRA PL group-title="Rozrywka",Polsat Comedy Central
+plugin://plugin.video.netiago/?mode=playtvs&url=1442745&page=0&moviescount=0&movie=True&name=POLSAT COMEDY CENTRAL EXTRA&image=https://ipla.pluscdn.pl/p/cms_thumbnails/hk/hkaj8qz42z83mgjvmt2shtyn32zzyrvd.jpeg
+#EXTINF:-1,POLSAT PLAY HD PL group-title="Rozrywka",Polsat Play
+plugin://plugin.video.netiago/?mode=playtvs&url=1455766&page=0&moviescount=0&movie=True&name=POLSAT PLAY HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/3r/3r31t5bteie1mv22qazzcbf71x2y1fs4.jpeg
+#EXTINF:-1,TVN TURBO PL group-title="Rozrywka",TVN Turbo
+plugin://plugin.video.netiago/?mode=playtvs&url=1455833&page=0&moviescount=0&movie=True&name=TVN TURBO&image=https://ipla.pluscdn.pl/p/cms_thumbnails/qr/qre3vakx5hk91nut5mgpfb5kgfri6rfm.jpeg
+#EXTINF:-1,DTX HD PL group-title="Rozrywka",DTX
+plugin://plugin.video.netiago/?mode=playtvs&url=1457763&page=0&moviescount=0&movie=True&name=DTX HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/1j/1j75qbvh867dy5comoyixbo1qftnyxah.jpeg
+#EXTINF:-1,MOTOWIZJA PL group-title="Rozrywka",Motowizja
+plugin://plugin.video.netiago/?mode=playtvs&url=1503925&page=0&moviescount=0&movie=True&name=MOTOWIZJA&image=https://ipla.pluscdn.pl/p/cms_thumbnails/cq/cqzrrvmpbh8nazd2aoawsu9kvtmbg4qy.jpg
+#EXTINF:-1,BBC BRIT PL group-title="Rozrywka",BBC Brit
+plugin://plugin.video.netiago/?mode=playtvs&url=1455427&page=0&moviescount=0&movie=True&name=BBC BRIT&image=https://ipla.pluscdn.pl/p/cms_thumbnails/41/41wf7yzqvhv91psc1aco3d1dee76ydre.jpeg
+#EXTINF:-1,POLSAT CAFE HD PL group-title="Rozrywka",Polsat Cafe
+plugin://plugin.video.netiago/?mode=playtvs&url=1455748&page=0&moviescount=0&movie=True&name=POLSAT CAFE HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/ym/ymae4bu167p5tid5o6sdhz9vvrueuntw.jpeg
+#EXTINF:-1,TVN STYLE PL group-title="Rozrywka",TVN Style
+plugin://plugin.video.netiago/?mode=playtvs&url=1455163&page=0&moviescount=0&movie=True&name=TVN STYLE&image=https://ipla.pluscdn.pl/p/cms_thumbnails/5y/5yquqo1x752moipoy8ohvojfr3qnvfwo.jpeg
+#EXTINF:-1,TLC HD PL rgoup-title="Rozrywka",TLC
+plugin://plugin.video.netiago/?mode=playtvs&url=1455447&page=0&moviescount=0&movie=True&name=TLC HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/7v/7v7v55d1tj2g2fhzsnbqm1fbxgg6bh4g.jpeg
+#EXTINF:-1,HG TV PL group-title="Rozrywka",HG TV
+plugin://plugin.video.netiago/?mode=playtvs&url=1455434&page=0&moviescount=0&movie=True&name=HG TV&image=https://ipla.pluscdn.pl/p/cms_thumbnails/m9/m9pb6q1ot3bpsvkmv2cua5dp5cxhjo14.jpeg
+#EXTINF:-1,POLSAT GAMES PL group-title="Rozrywka",Polsat Games
+plugin://plugin.video.netiago/?mode=playtvs&url=1455413&page=0&moviescount=0&movie=True&name=POLSAT GAMES&image=https://ipla.pluscdn.pl/p/cms_thumbnails/zn/zncyjwgt7cvrrv23nstiapdmx1jovzk4.jpeg
+#EXTINF:-1,Gametoon HD group-title="Rozrywka",Gametoon
+plugin://plugin.video.pilot.wp?action=PLAY&channel=205
+#EXTINF:0 tvg-id="TVP Rozrywka" tvg-logo="https://s9.tvp.pl/images2/9/6/4/uid_9647031d5810bf7b78b1a9f30904468c1638275757901_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Rozrywka",TVP Rozrywka
+plugin://plugin.video.tvpgo/play_channel?code=TRO&ch_id=5d1dccc1fa06f9682b0f9935
+#EXTINF:0 tvg-id="TVP Kobieta" tvg-logo="https://s3.tvp.pl/images2/3/6/2/uid_362ac36e5828f7e25f5e5d028b7abb7b1638275648497_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Rozrywka",TVP Kobieta
+plugin://plugin.video.tvpgo/play_channel?code=KBT&ch_id=6040bf7b69359a199aa6fb38
+#EXTINF:-1,BBC LIFESTYLE HD PL group-title="Rozrywka",BBC Lifestyle
+plugin://plugin.video.netiago/?mode=playtvs&url=1454632&page=0&moviescount=0&movie=True&name=BBC LIFESTYLE HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/xk/xkib4a4md343iqsgng7v7f6q8ufvt3rf.jpeg
+#EXTINF:-1,FOOD NETWORK HD PL group-title="Rozrywka",Food Network
+plugin://plugin.video.netiago/?mode=playtvs&url=1455169&page=0&moviescount=0&movie=True&name=FOOD NETWORK HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/ze/zezdmp2j48d32ps8jzi1585ikidhyvic.jpeg
+#EXTINF:-1,Twoja.TV HD group-title="Rozrywka",Twoja.TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=150
+#EXTINF:-1,TVS group-title="Rozrywka",TVS
+plugin://plugin.video.pilot.wp?action=PLAY&channel=51
+#EXTINF:-1,13.TV group-title="Rozrywka",13.TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=274
+#EXTINF:-1,Love TV HD group-title="Rozrywka",Love TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=45
+#EXTINF:-1,EzoTV group-title="Rozrywka",Ezo TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=149
+#EXTINF:0 tvg-id="TVP 3 Kielce" tvg-logo="https://s3.tvp.pl/images2/c/7/0/uid_c70410e8a2bb818b017996ee2fe423811638794072791_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Info",TVP 3 Kielce
+plugin://plugin.video.tvpgo/play_channel?code=XEE&ch_id=5d1dccc1fa06f9682b0f992b
+#EXTINF:0 tvg-id="TVP 3 Lublin" tvg-logo="https://s5.tvp.pl/images2/e/0/d/uid_e0d10c0efcfefb27acc8ad1b9036cbf61644849187650_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Info",TVP 3 Lublin
+plugin://plugin.video.tvpgo/play_channel?code=XLL&ch_id=5d1dccc1fa06f9682b0f992e
+#EXTINF:0 tvg-id="TVP Info" tvg-logo="https://s2.tvp.pl/images2/2/1/2/uid_2124147c0f8212d59ace8374779b28621638275572006_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Info",TVP Info
+plugin://plugin.video.tvpgo/play_channel?code=INF&ch_id=5d1dccc1fa06f9682b0f9924
+#EXTINF:-1,POLSAT NEWS HD PL group-title="Info",Polsat News
+plugin://plugin.video.netiago/?mode=playtvs&url=1456330&page=0&moviescount=0&movie=True&name=POLSAT NEWS HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/bn/bnwk2b98j3epxjmwyx1fbpxkc1k7ecct.jpeg
+#EXTINF:-1,POLSAT NEWS POLITYKA PL group-title="Info",Polsat News Polityka
+plugin://plugin.video.netiago/?mode=playtvs&url=1456334&page=0&moviescount=0&movie=True&name=POLSAT NEWS POLITYKA&image=https://ipla.pluscdn.pl/p/cms_thumbnails/qm/qmtm6uz81fxepvy3t4gc4ymj8qmtc4c2.jpg
+#EXTINF:-1,WYDARZENIA 24 PL group-title="Info",Wydarzenia 24
+plugin://plugin.video.netiago/?mode=playtvs&url=1456334&page=0&moviescount=0&movie=True&name=WYDARZENIA 24&image=https://ipla.pluscdn.pl/p/cms_thumbnails/uc/ucgnjpbkjv4sqqumoe7v84bi764m9hnq.jpeg
+#EXTINF:-1,POLSAT NEWS 2 PL group-title="Info",Polsat News 2
+plugin://plugin.video.netiago/?mode=playtvs&url=1442864&page=0&moviescount=0&movie=True&name=POLSAT NEWS 2&image=https://ipla.pluscdn.pl/p/cms_thumbnails/44/4421pa3fwhp32uf1vmxdyejt6sojwqet.jpeg
+#EXTINF:-1,TVN 24 PL group-title="Info",TVN 24
+plugin://plugin.video.netiago/?mode=playtvs&url=1456331&page=0&moviescount=0&movie=True&name=TVN 24&image=https://ipla.pluscdn.pl/p/cms_thumbnails/f7/f7u75tars67v1oavmjth8m4xgk4hniyf.jpeg
+#EXTINF:-1,TV REPUBLIKA PL group-title="Info",TV Republika
+plugin://plugin.video.netiago/?mode=playtvs&url=1454064&page=0&moviescount=0&movie=True&name=TV REPUBLIKA&image=https://ipla.pluscdn.pl/p/cms_thumbnails/3p/3p4d2gvbebk4gjzs3xiqcci1ptyzva43.jpeg
+#EXTINF:-1,WPOLSCE.PL PL group-title="Info",wPolsce.pl
+plugin://plugin.video.netiago/?mode=playtvs&url=1454414&page=0&moviescount=0&movie=True&name=WPOLSCE.PL&image=https://ipla.pluscdn.pl/p/cms_thumbnails/h5/h5f7szx9djhg8o38x773zeo5gyi6kwbc.jpeg
+#EXTINF:-1,News24 group-title="Info",News24
+plugin://plugin.video.pilot.wp?action=PLAY&channel=272
+#EXTINF:0 tvg-id="TVP Historia" tvg-logo="https://s4.tvp.pl/images2/d/5/e/uid_d5e250a46a37955df5b33847a1f661921638275686065_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Doku",TVP Historia
+plugin://plugin.video.tvpgo/play_channel?code=TKH&ch_id=5d1dccc1fa06f9682b0f9938
+#EXTINF:0 tvg-id="TVP Dokument" tvg-logo="https://s1.tvp.pl/images2/a/f/1/uid_af1b5529d584f3e6dc893021b38901971638275709609_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Doku",TVP Dokument
+plugin://plugin.video.tvpgo/play_channel?code=DOK&ch_id=5fb3cdf8683e7e5a7f307257
+#EXTINF:0 tvg-id="Historia 2" tvg-logo="https://s1.tvp.pl/images2/a/e/0/uid_ae0b108d4f6da63a62b15c2c8a58b4021638275776152_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Doku",Historia 2
+plugin://plugin.video.tvpgo/play_channel?code=H2&ch_id=60476bb069359a199a319de9
+#EXTINF:0 tvg-id="TVP NAUKA" tvg-logo="https://s5.tvp.pl/images2/e/3/a/uid_e3a95bba0e16e0eed0e5fd59229cfbd01663860050881_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Doku",TVP NAUKA
+plugin://plugin.video.tvpgo/play_channel?code=NK&ch_id=632c3ddc45f77c91710cc0ae
+#EXTINF:-1,BBC EARTH PL group-title="Doku",BBC Earth
+plugin://plugin.video.netiago/?mode=playtvs&url=1455418&page=0&moviescount=0&movie=True&name=BBC EARTH&image=https://ipla.pluscdn.pl/p/cms_thumbnails/4x/4xp91iryxn7gc33abf9idfva67mdc4ac.jpg
+#EXTINF:-1,VIASAT HISTORY HD PL group-title="Doku",Viasat History
+plugin://plugin.video.netiago/?mode=playtvs&url=1455769&page=0&moviescount=0&movie=True&name=VIASAT HISTORY HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/w5/w5ua78vgpzztghoo2i6gdwgi542e9vrj.jpeg
+#EXTINF:-1,VIASAT EXPLORE HD PL group-title="Doku",Viasat Explore
+plugin://plugin.video.netiago/?mode=playtvs&url=1455743&page=0&moviescount=0&movie=True&name=VIASAT EXPLORE HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/r4/r49bjbok1ukm2tnmfkz8xj74rsdg2ds8.jpeg
+#EXTINF:-1,VIASAT NATURE HD PL group-title="Doku",Viasat Nature
+plugin://plugin.video.netiago/?mode=playtvs&url=1455422&page=0&moviescount=0&movie=True&name=VIASAT NATURE HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/5f/5fgc1hb3f36b3mpenqhmhzc19wzgyxz4.jpeg
+#EXTINF:-1,NATIONAL GEOGRAPHIC PL group-title="Doku",National Geographic
+plugin://plugin.video.netiago/?mode=playtvs&url=1455825&page=0&moviescount=0&movie=True&name=NATIONAL GEOGRAPHIC&image=https://ipla.pluscdn.pl/p/cms_thumbnails/xj/xjo9bakvacjxtffarcj3percgof1ebzr.jpeg
+#EXTINF:-1,DISCOVERY CHANNEL HD PL group-title="Doku",Discovery Channel
+plugin://plugin.video.netiago/?mode=playtvs&url=1455829&page=0&moviescount=0&movie=True&name=DISCOVERY CHANNEL HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/5c/5cvszq3poysfa8pwepugut2mn21ug68z.jpeg
+#EXTINF:-1,DISCOVERY SCIENCE HD PL group-title="Doku",Discovery Science
+plugin://plugin.video.netiago/?mode=playtvs&url=1455751&page=0&moviescount=0&movie=True&name=DISCOVERY SCIENCE HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/5w/5wk6ce7vprx24ppoppcv646kdjps9hdv.jpeg
+#EXTINF:-1,DISCOVERY LIFE HD PL group-title="Doku",Discovery Life
+plugin://plugin.video.netiago/?mode=playtvs&url=1454624&page=0&moviescount=0&movie=True&name=DISCOVERY LIFE HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/61/61fbeeie1o76ncy16vtu3stpmwk7a3tw.jpeg
+#EXTINF:-1,DISCOVERY HISTORIA PL group-title="Doku",Discovery Historia
+plugin://plugin.video.netiago/?mode=playtvs&url=1455097&page=0&moviescount=0&movie=True&name=DISCOVERY HISTORIA&image=https://ipla.pluscdn.pl/p/cms_thumbnails/ac/acb39xk91v8wp294km3de3yhz7rdjvw2.jpeg
+#EXTINF:-1,ANIMAL PLANET HD PL group-title="Doku",Animal Planet
+plugin://plugin.video.netiago/?mode=playtvs&url=1454627&page=0&moviescount=0&movie=True&name=ANIMAL PLANET HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/91/91zizddf2im3vsqy2w7sm381vkqjr6es.jpeg
+#EXTINF:-1,TRAVEL CHANNEL HD PL group-title="Doku",Travel Channel
+plugin://plugin.video.netiago/?mode=playtvs&url=1455157&page=0&moviescount=0&movie=True&name=TRAVEL CHANNEL HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/hn/hnzkbfakv1it2568wiq19fmk9bg3swwj.jpeg
+#EXTINF:-1,CI POLSAT HD PL group-title="Doku",CI Polsat
+plugin://plugin.video.netiago/?mode=playtvs&url=1455435&page=0&moviescount=0&movie=True&name=CI POLSAT HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/r4/r497tmy8rnp3ng78kj7ctd1pozeuy8wo.jpeg
+#EXTINF:-1,ID HD PL group-title="Doku",ID
+plugin://plugin.video.netiago/?mode=playtvs&url=1455160&page=0&moviescount=0&movie=True&name=ID HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/jw/jwox8199xjxf59rkgvm4e1v2992hk8dw.jpeg
+#EXTINF:-1,TV Trwam group-title="Doku",TV Trwam
+plugin://plugin.video.pilot.wp?action=PLAY&channel=10
+#EXTINF:-1,TBN Polska HD group-title="Doku",TBN Polska
+plugin://plugin.video.pilot.wp?action=PLAY&channel=204
+#EXTINF:-1,Stars.TV HD group-title="Muzyka",Stars.TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=24
+#EXTINF:-1,GOLD TV group-title="Muzyka",Gold TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=172
+#EXTINF:-1,4FUN.TV group-title="Muzyka",4FUN.TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=21
+#EXTINF:-1,4FUN DANCE group-title="Muzyka",4FUN Dance
+plugin://plugin.video.pilot.wp?action=PLAY&channel=50
+#EXTINF:-1,4FUN KIDS group-title="Muzyka",4FUN Kids
+plugin://plugin.video.pilot.wp?action=PLAY&channel=22
+#EXTINF:-1,Music Box Polska group-title="Muzyka",Music Box Polska
+plugin://plugin.video.pilot.wp?action=PLAY&channel=188
+#EXTINF:-1,VOX MUSIC TV PL group-title="Muzyka",Vox Music
+plugin://plugin.video.netiago/?mode=playtvs&url=1454401&page=0&moviescount=0&movie=True&name=VOX MUSIC TV&image=https://ipla.pluscdn.pl/p/cms_thumbnails/jk/jkqcd721vdd4i3pf8wmta155r1zq1i9e.jpeg
+#EXTINF:-1,ESKA TV PL group-title="Muzyka",Eska TV
+plugin://plugin.video.netiago/?mode=playtvs&url=1454631&page=0&moviescount=0&movie=True&name=ESKA TV&image=https://ipla.pluscdn.pl/p/cms_thumbnails/pv/pv1ggqpuxzv41ryintzqtcruhi1enbge.jpeg
+#EXTINF:-1,ESKA TV EXTRA PL group-title="Muzyka",Eska TV Extra
+plugin://plugin.video.netiago/?mode=playtvs&url=1457771&page=0&moviescount=0&movie=True&name=ESKA TV EXTRA&image=https://ipla.pluscdn.pl/p/cms_thumbnails/1z/1z8t1bkktvpb18hxu1mfvtx6ouqxp6ch.jpeg
+#EXTINF:-1,ESKA ROCK TV PL group-title="Muzyka",Eska Rock TV
+plugin://plugin.video.netiago/?mode=playtvs&url=1456459&page=0&moviescount=0&movie=True&name=ESKA ROCK TV&image=https://ipla.pluscdn.pl/p/cms_thumbnails/h7/h7o4csum6usnw78ugm542yse59aifr58.jpeg
+#EXTINF:-1,Jazz HD group-title="Muzyka",Jazz HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=213
+#EXTINF:-1,POLO TV PL group-title="Muzyka",Polo TV
+plugin://plugin.video.netiago/?mode=playtvs&url=1454602&page=0&moviescount=0&movie=True&name=POLO TV&image=https://ipla.pluscdn.pl/p/cms_thumbnails/y5/y5ch7fvfe3afgzafk9un95ew29gixiha.jpeg
+#EXTINF:-1,DISCO POLO MUSIC PL group-title="Muzyka",Disco Polo Music
+plugin://plugin.video.netiago/?mode=playtvs&url=1454605&page=0&moviescount=0&movie=True&name=DISCO POLO MUSIC&image=https://ipla.pluscdn.pl/p/cms_thumbnails/rb/rb78bdk9gaihk95kdg11ebg829r3aeib.jpeg
+#EXTINF:0 tvg-id="ALFA TVP" tvg-logo="https://s6.tvp.pl/images2/6/0/0/uid_6008af70ab882fa088c7f00ec2f640271671613962973_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Dzieci",ALFA TVP
+plugin://plugin.video.tvpgo/play_channel?code=ALFA&ch_id=63a07c12535d53f3967f9083
+#EXTINF:0 tvg-id="TVP ABC" tvg-logo="https://s5.tvp.pl/images2/5/c/8/uid_5c8ba79e2229bf9909ffa4ea9907595e1638275665760_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Dzieci",TVP ABC
+plugin://plugin.video.tvpgo/play_channel?code=ABC&ch_id=5d1dccc1fa06f9682b0f9939
+#EXTINF:0 tvg-id="ABC 2" tvg-logo="https://s8.tvp.pl/images2/8/1/c/uid_81cab4e1725ca1969ec02d7d3cbd56441644906820060_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Dzieci",ABC 2
+plugin://plugin.video.tvpgo/play_channel?code=DMPR&ch_id=5fdb237f69359a199a4376c6
+#EXTINF:-1,NICKELODEON POLSKA PL group-title="Dzieci",Nickelodeon
+plugin://plugin.video.netiago/?mode=playtvs&url=1455170&page=0&moviescount=0&movie=True&name=NICKELODEON POLSKA&image=https://ipla.pluscdn.pl/p/cms_thumbnails/jg/jgu5r2gyb1wa1hi8cd61drzsupfiz8m2.jpeg
+#EXTINF:-1,NICK JR PL group-title="Dzieci",Nick JR
+plugin://plugin.video.netiago/?mode=playtvs&url=1455758&page=0&moviescount=0&movie=True&name=NICK JR&image=https://ipla.pluscdn.pl/p/cms_thumbnails/au/auus9ujbxhhwsk515ov1196on3hced4e.jpeg
+#EXTINF:-1,NICKTOONS PL group-title="Dzieci",Nicktoons
+plugin://plugin.video.netiago/?mode=playtvs&url=1455153&page=0&moviescount=0&movie=True&name=NICKTOONS&image=https://ipla.pluscdn.pl/p/cms_thumbnails/8u/8u2itotuwerjwt1e5t57augeabfp4wtw.jpeg
+#EXTINF:-1,TEEN NICK PL group-title="Dzieci",Teen Nick
+plugin://plugin.video.netiago/?mode=playtvs&url=1457762&page=0&moviescount=0&movie=True&name=TEEN NICK&image=https://ipla.pluscdn.pl/p/cms_thumbnails/y4/y434jqfkcmcj56fajcppv3aqax4in5hg.jpeg
+#EXTINF:-1,CARTOON NETWORK HD PL group-title="Dzieci",Cartoon Network
+plugin://plugin.video.netiago/?mode=playtvs&url=1455429&page=0&moviescount=0&movie=True&name=CARTOON NETWORK HD&image=https://ipla.pluscdn.pl/p/cms_thumbnails/ym/ym2bhzxkmc7f4u5cm2hqp2boemr2fo2a.jpeg
+#EXTINF:-1,BBC CBEEBIES PL group-title="Dzieci",BBC CBEEBIES
+plugin://plugin.video.netiago/?mode=playtvs&url=1454633&page=0&moviescount=0&movie=True&name=BBC CBEEBIES&image=https://ipla.pluscdn.pl/p/cms_thumbnails/25/25n6v5t2amjh8gr6bjo29dhqcwhx5xav.jpeg
+#EXTINF:-1,DISNEY CHANNEL PL group-title="Dzieci",Disney Channel
+plugin://plugin.video.netiago/?mode=playtvs&url=1455156&page=0&moviescount=0&movie=True&name=DISNEY CHANNEL&image=https://ipla.pluscdn.pl/p/cms_thumbnails/rf/rffsn1342ypqawn3m1i14qrv8ma5z9n4.jpg
+#EXTINF:-1,DISNEY JUNIOR PL group-title="Dzieci",Disney Junior
+plugin://plugin.video.netiago/?mode=playtvs&url=1455445&page=0&moviescount=0&movie=True&name=DISNEY JUNIOR&image=https://ipla.pluscdn.pl/p/cms_thumbnails/ja/jatnqhh5sgaby7vudye68sv74r35o4eq.jpeg
+#EXTINF:-1,POLSAT JIM JAM PL group-title="Dzieci",Polsat Jim Jam
+plugin://plugin.video.netiago/?mode=playtvs&url=1454399&page=0&moviescount=0&movie=True&name=POLSAT JIM JAM&image=https://ipla.pluscdn.pl/p/cms_thumbnails/9e/9ee1yx4nuvk5qtj1pkbkv9ozwsjuk6x1.jpeg
+#EXTINF:0 tvg-id="TVP World" tvg-logo="https://s3.tvp.pl/images2/3/1/a/uid_31a1cb9f553a4e62fdc1a68311068b931639054119238_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Zagraniczne",TVP World
+plugin://plugin.video.tvpgo/play_channel?code=PIE&ch_id=61f2552dac8460678216e2a3
+#EXTINF:0 tvg-id="UA 1" tvg-logo="https://s2.tvp.pl/images2/2/2/e/uid_22e0d031662761cdeb669c49b31738b81645961764558_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Zagraniczne",UA 1
+plugin://plugin.video.tvpgo/play_channel?code=UA1&ch_id=621b637c45f77c917174bf4f
+#EXTINF:0 tvg-id="TV Bielsat" tvg-logo="https://s9.tvp.pl/images2/9/4/d/uid_94daec69fb7046226f9c42ad28c8f7251638805351087_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Zagraniczne",TV Bielsat
+plugin://plugin.video.tvpgo/play_channel?code=TVBI&ch_id=5d1dccc1fa06f9682b0f993d
+#EXTINF:-1,France 24 HD group-title="Zagraniczne",France 24
+plugin://plugin.video.pilot.wp?action=PLAY&channel=18
+#EXTINF:-1,France 24 English HD group-title="Zagraniczne",France 24 English
+plugin://plugin.video.pilot.wp?action=PLAY&channel=17
+#EXTINF:-1,Travelxp HD group-title="Zagraniczne",Travelxp
+plugin://plugin.video.pilot.wp?action=PLAY&channel=182
+#EXTINF:-1,Fashion TV HD group-title="Zagraniczne",Fashion TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=58
